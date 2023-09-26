@@ -115,21 +115,27 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 Profit prediction graph:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/15114232-19ae-4424-82cb-7ee98f8e0bd3)
 
 Compute cost value:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/4e29185f-bb03-4e2d-8526-b5e533e71b05)
 
 h(x) value:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/20a2f938-5303-4714-a348-a1053348fe46)
 
 Cost function using Gradient Descent graph:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/82c6a92a-3873-4bbf-886c-6fc84bea97cf)
 
 Profit prediction graph:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/72301788-b561-4454-b0ad-8e31967ff70d)
 
 Profit for the population 35,000:
+
 ![image](https://github.com/Naveenaa28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433133/4af1d750-94a5-4821-94d7-ee6bd4306803)
 
 Profit for the population 70,000:
